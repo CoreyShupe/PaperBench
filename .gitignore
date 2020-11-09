@@ -12,3 +12,7 @@ Cargo.lock
 # IntelliJ files
 /.idea/
 *.iml
+
+# More build files
+**/target
+/resources/
