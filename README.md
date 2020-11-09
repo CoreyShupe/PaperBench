@@ -13,3 +13,8 @@ The goals of this project are as follows:
 * Accurate TPS representations for specific configurations.
 * A benchmark for player -> configuration / ram.
 * A stress tester.
+
+## Building this program
+To build this program you can use commands from the `build.sh` script.<br/>
+To build a release version you can use `build.sh --release`.<br/>
+This build.sh allows all rust parameters and by default uses `color=always`.<br/>
